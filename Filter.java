@@ -1,5 +1,8 @@
 // Find the even number using stream.
 // filter() :- To filter elements based on some condition.
+//Input :-[72, 23, 84, 22, 12, 55, 12, 66]
+//Output: -[72, 84, 22, 12, 12, 66]
+
 
 
 package streamConcept;
@@ -27,3 +30,5 @@ public class Filter {
 	}
 
 }
+
+
