@@ -1,4 +1,6 @@
 // Find the even number using stream.
+// filter() :- To filter elements based on some condition.
+
 
 package streamConcept;
 
