@@ -1,7 +1,8 @@
 /* map() :- For every object you want to perform some function and you
  * want some result object then we can go for map .
  * Write a program to add 5 marks in every students.
- * 
+ * Input:-Before add  [15, 45, 77, 19, 45]
+ * Output:- After add  [20, 50, 82, 24, 50]
  * */
 
 package streamConcept;
